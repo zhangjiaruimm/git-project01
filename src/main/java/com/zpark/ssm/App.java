@@ -7,5 +7,6 @@ public class App {
         System.out.println("Hello Git zjr hotfix first commit!!!");
         System.out.println("Hello Git zjr hotfix first modify!!!");
         System.out.println("Hello Git zjr master first modify!!!");
+        System.out.println("Hello GitHub! zjr master first push Github!!!!!!");
     }
 }
